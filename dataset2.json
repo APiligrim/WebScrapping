@@ -1,0 +1,470 @@
+var dataset = {
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Rating": 4.0,
+        "Salary": 55625.0,
+        "Location": "Hartford, Ct 06106 (Downtown Area)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6772016,
+          41.7655714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rating": 4.0,
+        "Salary": 55625.0,
+        "Location": "Hartford, Ct 06106 (Downtown Area)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6772016,
+          41.7655714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rating": 4.3,
+        "Salary": 44279.0,
+        "Location": "Washington, Dc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0368707,
+          38.9071923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rating": 4.0,
+        "Salary": 61216.0,
+        "Location": "Middlebury, Vt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.16734,
+          44.0153371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rating": 4.0,
+        "Salary": 61216.0,
+        "Location": "Middlebury, Vt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.16734,
+          44.0153371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rating": 4.8,
+        "Salary": 31200.0,
+        "Location": "Fredericksburg, Va 22408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4605399,
+          38.3031837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rating": 3.5,
+        "Salary": 15600.0,
+        "Location": "Pittsburgh, Pa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9958864,
+          40.44062479999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rating": 3.5,
+        "Salary": 15600.0,
+        "Location": "Pittsburgh, Pa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9958864,
+          40.44062479999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rating": 4.3,
+        "Salary": 46633.60000000001,
+        "Location": "Washington, Dc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0368707,
+          38.9071923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rating": 4.3,
+        "Salary": 37440.0,
+        "Location": "Chicago, Il"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6297982,
+          41.8781136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rating": 3.0,
+        "Salary": 24960.0,
+        "Location": "College Park, Md 20740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9354979,
+          39.0026879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rating": 4.2,
+        "Salary": 41600.0,
+        "Location": "Melbourne, Fl 32934"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7103532,
+          28.1356631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rating": 3.0,
+        "Salary": 24960.0,
+        "Location": "College Park, Md 20740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9354979,
+          39.0026879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rating": 3.4,
+        "Salary": 35360.0,
+        "Location": "Vista, Ca 92081"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2534184,
+          33.1778834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rating": 4.3,
+        "Salary": 37440.0,
+        "Location": "Chicago, Il"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6297982,
+          41.8781136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rating": 3.6,
+        "Salary": 24960.0,
+        "Location": "Brookfield, Wi 53005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.099845,
+          43.0717382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rating": 4.2,
+        "Salary": 41600.0,
+        "Location": "Melbourne, Fl 32934"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7103532,
+          28.1356631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rating": 4.1,
+        "Salary": 41600.0,
+        "Location": "Dayton, Oh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1916069,
+          39.7589478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rating": 4.1,
+        "Salary": 41600.0,
+        "Location": "Oakland, Ca 94607 (Acorn-Acorn Industrial Area)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2873638,
+          37.8012895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rating": 4.1,
+        "Salary": 41600.0,
+        "Location": "Oakland, Ca 94607 (Acorn-Acorn Industrial Area)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2873638,
+          37.8012895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rating": 4.1,
+        "Salary": 41600.0,
+        "Location": "Oakland, Ca 94607 (Acorn-Acorn Industrial Area)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2873638,
+          37.8012895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rating": 4.1,
+        "Salary": 41600.0,
+        "Location": "Oakland, Ca 94607 (Acorn-Acorn Industrial Area)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2873638,
+          37.8012895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rating": 3.7,
+        "Salary": 31200.0,
+        "Location": "Cary, Nc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7811169,
+          35.79154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rating": 4.3,
+        "Salary": 41600.0,
+        "Location": "Chicago, Il 60603 (The Loop Area)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63116199999999,
+          41.8792487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rating": 3.1,
+        "Salary": 31200.0,
+        "Location": "Farmington Hills, Mi 48331"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.41098339999999,
+          42.508645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rating": 4.1,
+        "Salary": 36961.6,
+        "Location": "Downey, Ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1331593,
+          33.9401088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rating": 2.9,
+        "Salary": 22880.0,
+        "Location": "Columbia, Sc 29223"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.92077370000001,
+          34.1058378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rating": 4.3,
+        "Salary": 46633.60000000001,
+        "Location": "Washington, Dc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0368707,
+          38.9071923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rating": 3.5,
+        "Salary": 31200.0,
+        "Location": "Phoenix, Az"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0740373,
+          33.4483771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rating": 3.1,
+        "Salary": 31200.0,
+        "Location": "Farmington Hills, Mi 48331"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.41098339999999,
+          42.508645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rating": 4.5,
+        "Salary": 31200.0,
+        "Location": "Tallahassee, Fl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.28073289999999,
+          30.4382559
+        ]
+      }
+    }
+  ]
+};
