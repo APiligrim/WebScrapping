@@ -1,4 +1,4 @@
-var dataset = {
+{
   "type": "FeatureCollection",
   "features": [
     {
@@ -467,4 +467,4 @@ var dataset = {
       }
     }
   ]
-};
+}
