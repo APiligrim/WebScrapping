@@ -1,6 +1,6 @@
-# WebScrapping with BeautifulSoup
+# WebScrapping Indeed with BeautifulSoup
 
-Main Idea: Web Scrape the website Indeed.com with BeautifulSoup to see internship openings for open Software Engineering positions and spot trends for:
+Project's Main Idea: Web Scrape the website Indeed.com with BeautifulSoup to see internship openings for open Software Engineering positions and spot trends for:
 
         - programming skills (languages, frameworks, types of experiences) that are most in demand 
         - locations of different job openings
